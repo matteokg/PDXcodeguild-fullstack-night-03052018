@@ -6,6 +6,8 @@ while True:
         user_choice = input('rock, paper, or scissors? ').lower()
         if user_choice == 'rock' or user_choice == 'paper' or user_choice == 'scissors':
             break
+        if user_choice != 'rock' or user_choice != 'paper' or user_choice != 'scissors':
+            print('please enter a valid choice, not ' + user_choice)
 
     print('user choice: ' + user_choice)
 

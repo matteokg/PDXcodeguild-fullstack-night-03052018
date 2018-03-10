@@ -11,4 +11,4 @@ Pluralnoun1 = input("Plural Noun?")
 Pluralnoun2 = input("Another Plural noun?")
 Pluraloccupation = input("Plural occupation?")
 
-print("Many future big league baseball" + ' ' + Pluralnoun1 +  ' ' + "Are being trained in little league today. The little leaguers are just like the big league" + ' ' + Pluralnoun2 + ' ' + "Except that the players are all between" + ' ' + Number1 + "and" + Number2 + "years old. When a" + Noun1 + ".goes out for a Little League team, he is given" + Adjective1 + ".tests in fielding fast" + Pluralnoun2 + )
+print("Many future big league baseball" + ' ' + Pluralnoun1 +  ' ' + "Are being trained in little league today. The little leaguers are just like the big league" + ' ' + Pluralnoun2 + ' ' + "Except that the players are all between" + ' ' + Number1 + "and" + Number2 + "years old. When a" + Noun1 + ".goes out for a Little League team, he is given" + Adjective1 + ".tests in fielding fast" + Pluralnoun2)
