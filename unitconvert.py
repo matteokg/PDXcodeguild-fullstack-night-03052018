@@ -1,13 +1,17 @@
 def fttom(x, y):
+    #feet to meter
     if y == "ft":
         return x * 0.3048
 def mitom(x,y):
+    #Miles to meter
     if y == "mi":
         return x * 1609.34
 def mtom(x,y):
+    #Meter to meter
     if y == "m":
         return x * 1
 def kmtom(x,y):
+    #kilometer to meter
     if y == "km":
         return x / 1000
 
