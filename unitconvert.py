@@ -26,3 +26,10 @@ elif y == "m":
     print(mtom(x,y))
 elif y == "km":
     print(kmtom(x,y))
+
+while True:
+    again = input("Another operation? Yes/No").lower()
+    if again == "yes" or again == "no"
+        break
+if again == "no"
+    break
